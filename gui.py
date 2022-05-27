@@ -67,5 +67,3 @@ def mainPage():
     searchButton.place(x=300,y=200)
 
     root.mainloop()
-
-mainPage()
